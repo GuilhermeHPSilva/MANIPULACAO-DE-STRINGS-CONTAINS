@@ -1,0 +1,13 @@
+C:\Users\diper\Documents\Nova Pasta\bin\Debug\netcoreapp3.1\Nova Pasta.exe
+C:\Users\diper\Documents\Nova Pasta\bin\Debug\netcoreapp3.1\Nova Pasta.deps.json
+C:\Users\diper\Documents\Nova Pasta\bin\Debug\netcoreapp3.1\Nova Pasta.runtimeconfig.json
+C:\Users\diper\Documents\Nova Pasta\bin\Debug\netcoreapp3.1\Nova Pasta.runtimeconfig.dev.json
+C:\Users\diper\Documents\Nova Pasta\bin\Debug\netcoreapp3.1\Nova Pasta.dll
+C:\Users\diper\Documents\Nova Pasta\bin\Debug\netcoreapp3.1\Nova Pasta.pdb
+C:\Users\diper\Documents\Nova Pasta\obj\Debug\netcoreapp3.1\Nova Pasta.csprojAssemblyReference.cache
+C:\Users\diper\Documents\Nova Pasta\obj\Debug\netcoreapp3.1\Nova Pasta.AssemblyInfoInputs.cache
+C:\Users\diper\Documents\Nova Pasta\obj\Debug\netcoreapp3.1\Nova Pasta.AssemblyInfo.cs
+C:\Users\diper\Documents\Nova Pasta\obj\Debug\netcoreapp3.1\Nova Pasta.csproj.CoreCompileInputs.cache
+C:\Users\diper\Documents\Nova Pasta\obj\Debug\netcoreapp3.1\Nova Pasta.dll
+C:\Users\diper\Documents\Nova Pasta\obj\Debug\netcoreapp3.1\Nova Pasta.pdb
+C:\Users\diper\Documents\Nova Pasta\obj\Debug\netcoreapp3.1\Nova Pasta.genruntimeconfig.cache
